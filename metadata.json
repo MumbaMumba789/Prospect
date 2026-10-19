@@ -1,0 +1,6 @@
+{
+  "name": "Prospect - Zambia Mineral Exploration Intelligence",
+  "description": "Affordable GIS-based mineral exploration intelligence platform for prioritising and ranking copper exploration targets in Zambia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
